@@ -1,0 +1,1 @@
+Maximum Likelihood Parameter Estimation from Data assuming Gaussian Distribution to classify data into two classes (malignant and Benign Tumor). Also empirical results for the probability of detection and probability of false alarm, for each classifier. Features are 3 dimensional and extracted from Gaussian distribution.
